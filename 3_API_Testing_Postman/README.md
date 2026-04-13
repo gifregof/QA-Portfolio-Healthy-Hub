@@ -1,1 +1,1 @@
-
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/50737573-9ae61259-bfe2-4c09-a6ad-123d397b8ecc?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D50737573-9ae61259-bfe2-4c09-a6ad-123d397b8ecc%26entityType%3Dcollection%26workspaceId%3D7d4a2fa2-5bdb-4004-9c18-cffa276a7897)
