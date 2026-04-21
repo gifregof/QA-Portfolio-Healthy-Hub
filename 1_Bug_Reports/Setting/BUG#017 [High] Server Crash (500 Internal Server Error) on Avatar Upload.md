@@ -1,4 +1,3 @@
-# Bug Report: Server Crash (500 Internal Server Error) on Avatar Upload
 ## Metadata
 - **ID:** #17
 - **Reporter:** Vyskrebstsov O.
