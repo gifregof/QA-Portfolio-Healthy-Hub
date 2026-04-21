@@ -1,5 +1,3 @@
-# [Bug] POST /api/user/food-intake behaves like GET when sending an empty JSON object
-
 ## Metadata
 - **ID:** #12
 - **Reporter:** Vyskrebstsov O.
