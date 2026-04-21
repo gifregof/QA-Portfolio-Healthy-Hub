@@ -1,5 +1,3 @@
-# [Critical] POST /auth/restore returns 401 Unauthorized instead of 200 OK
-
 ## Metadata
 - **ID:** #2
 - **Reporter:** Vyskrebstsov O.
