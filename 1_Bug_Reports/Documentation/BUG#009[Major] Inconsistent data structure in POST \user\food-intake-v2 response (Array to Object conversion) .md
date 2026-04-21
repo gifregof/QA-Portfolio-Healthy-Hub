@@ -1,5 +1,3 @@
-# [Major] Inconsistent data structure in POST /user/food-intake-v2 response (Array to Object conversion)
-
 ## Metadata
 - **ID:** #9
 - **Reporter:** Vyskrebstsov O.
