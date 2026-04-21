@@ -1,5 +1,3 @@
-# [Blocker] Missing Frontend Validation Leads to UI Freeze (JavaScript Exception)
-
 ## Metadata
 - **ID:** #14
 - **Reporter:** Vyskrebstsov O.
