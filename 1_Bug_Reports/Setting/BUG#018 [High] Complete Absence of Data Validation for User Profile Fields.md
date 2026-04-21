@@ -16,7 +16,6 @@ The `/api/auth/settings` endpoint fails to perform sanity checks or data validat
 * **Method:** `PATCH`
 * **Auth:** Valid Bearer Token required
 * **Tool:** Postman
-* **Date:** April 8, 2026
 
 ## Steps to Reproduce
 1. Open Postman and target the `PATCH /api/auth/settings` endpoint.
