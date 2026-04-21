@@ -1,5 +1,3 @@
-# [Critical] PATCH /auth/settings requires all mandatory fields (behaves like PUT)
-
 ## Metadata
 - **ID:** #4
 - **Reporter:** Vyskrebstsov O.
