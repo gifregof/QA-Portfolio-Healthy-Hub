@@ -1,5 +1,3 @@
-# [Minor] Missing "token" field in GET /auth/current response body
-
 ## Metadata
 - **ID:** #5
 - **Reporter:** Vyskrebstsov O.
