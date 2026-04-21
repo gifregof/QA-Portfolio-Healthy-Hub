@@ -1,5 +1,3 @@
-# [Bug] 201 Created status code when registering user with spaces in password
-
 ## Metadata
 * **ID:** #1
 * **Reporter:** Vyskrebstsov O.
