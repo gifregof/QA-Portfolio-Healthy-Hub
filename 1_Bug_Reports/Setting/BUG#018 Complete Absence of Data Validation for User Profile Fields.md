@@ -1,5 +1,3 @@
-# Bug Report: Complete Absence of Data Validation for User Profile Fields
-
 ## Summary
 The `/api/auth/settings` endpoint fails to perform sanity checks or data validation on physical and demographic fields. The server accepts biologically impossible values (e.g., age of 25 million years, height of 2500 km) and invalid strings for restricted fields like gender, returning a `200 OK` response and saving this data to the database.
 
