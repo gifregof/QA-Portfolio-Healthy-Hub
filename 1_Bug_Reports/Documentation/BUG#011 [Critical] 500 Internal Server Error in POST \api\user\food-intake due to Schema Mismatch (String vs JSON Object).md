@@ -1,5 +1,3 @@
-# [Critical] 500 Internal Server Error in POST /api/user/food-intake due to Schema Mismatch (String vs JSON Object)
-
 ## Metadata
 - **ID:** #11
 - **Reporter:** Vyskrebstsov O.
