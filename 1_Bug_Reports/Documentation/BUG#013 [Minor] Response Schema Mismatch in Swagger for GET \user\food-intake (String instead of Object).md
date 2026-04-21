@@ -1,5 +1,3 @@
-# [Minor] Response Schema Mismatch in Swagger for GET /user/food-intake (String instead of Object)
-
 ## Metadata
 - **ID:** #13
 - **Reporter:** Vyskrebstsov O.
