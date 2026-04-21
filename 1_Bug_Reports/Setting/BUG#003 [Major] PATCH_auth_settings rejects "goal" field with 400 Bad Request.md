@@ -1,5 +1,3 @@
-# [Bug] PATCH /auth/settings rejects "goal" field with 400 Bad Request
-
 ## Metadata
 - **ID:** #3
 - **Reporter:** Vyskrebstsov O.
