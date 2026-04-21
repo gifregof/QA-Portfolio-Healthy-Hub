@@ -1,5 +1,3 @@
-# [Bug] 201 Created status code when registering a user with an invalid email format
-
 ## Metadata
 - **ID:** #16
 - **Reporter:** Vyskrebstsov O.
