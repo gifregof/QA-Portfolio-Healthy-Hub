@@ -1,5 +1,3 @@
-# [Critical] 500 Internal Server Error in Swagger UI for POST /user/food-intake when unauthorized
-
 ## Metadata
 - **ID:** #15
 - **Reporter:** Vyskrebstsov O.
