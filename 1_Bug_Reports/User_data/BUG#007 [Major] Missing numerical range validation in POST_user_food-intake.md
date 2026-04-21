@@ -1,5 +1,3 @@
-# [Bug] Missing numerical range validation in POST /user/food-intake
-
 ## Metadata
 - **ID:** #7
 - **Reporter:** Vyskrebstsov O.
