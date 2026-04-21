@@ -19,7 +19,7 @@ When a `POST` request is sent with an empty body `{}`, the server returns a `200
 2. Ensure the user is authorized with a valid Bearer token.
 
 ## Steps to Reproduce
-1. Locate the [POST /api/user/food-intake](https://healthy-hub-qa.b.goit.study/api-docs/#/User/post_user_food_intake) endpoint.
+1. Locate the [POST/user/food-intake](https://healthy-hub-qa.b.goit.study/api-docs/#/User/post_user_food_intake) endpoint.
 2. Click the **"Try it out"** button.
 3. In the **"Request body"**, enter an empty JSON object: `{}`.
 4. Click the **"Execute"** button.
