@@ -1,5 +1,3 @@
-# [Critical] Swagger UI ignores "count" parameter in GET /user/recommended-food due to incorrect definition (Path vs Query)
-
 ## Metadata
 - **ID:** #10
 - **Reporter:** Vyskrebstsov O.
