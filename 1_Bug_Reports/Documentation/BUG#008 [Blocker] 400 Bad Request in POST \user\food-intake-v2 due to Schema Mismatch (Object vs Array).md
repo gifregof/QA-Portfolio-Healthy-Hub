@@ -1,5 +1,3 @@
-# [Blocker] 400 Bad Request in POST /user/food-intake-v2 due to Schema Mismatch (Object vs Array)
-
 ## Metadata
 - **ID:** #8
 - **Reporter:** Vyskrebstsov O.
