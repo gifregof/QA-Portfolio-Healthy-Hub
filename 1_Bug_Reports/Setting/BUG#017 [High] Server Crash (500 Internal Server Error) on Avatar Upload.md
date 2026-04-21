@@ -5,6 +5,8 @@
 - **Priority:** Medium
 - **Type:** Functional
 
+---
+
 ## Summary
 The server returns a `500 Internal Server Error` and exposes a Node.js stack trace when an avatar is uploaded using an incorrect field name (key) in a `multipart/form-data` request.
 
