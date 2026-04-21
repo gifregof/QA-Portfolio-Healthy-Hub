@@ -1,5 +1,3 @@
-# [Minor] Incorrect description for 500 status code in POST /auth/register
-
 ## Metadata
 - **ID:** #6
 - **Reporter:** Vyskrebstsov O.
